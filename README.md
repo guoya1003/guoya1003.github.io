@@ -1,4 +1,4 @@
-
+ 
 ## Welcome Guoya's Page
 
 这是一个未完成的网页！！！
@@ -15,29 +15,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #### [spring核心技术，git安装包，vscode，python2.7&3.5.2&3.6.0和pycharm安装包... 密码:y0m4](https://pan.baidu.com/s/1nu8rSRv)
 
-####待补充...
+#### 待补充...
 
-### Markdown该网页基于此标记语言（好像是GitHub提供）排版编写,更推荐JavaScript
+### Markdown该网页基于此标记语言（好像是GitHub提供）排版编写,更推荐直接用JavaScript
 
 ```markdown
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+免责声明：资源均来自网络，仅供个人观摩学习，请在下载24小时内删除。如有侵权请尽快与我联系
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes（本网页的网页设计引用于此）
+### Network Styles（本网页的网页设计引用于此）
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guoya1003/guoya1003.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+##The end ！！！
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
