@@ -7,13 +7,13 @@
 You can use the [editor on GitHub](https://github.com/guoya1003/guoya1003.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ```
-#资源传送门
+### 资源传送门
 
-####[ArcGIS10.3安装包及破解文件（含破解教程） 密码：jyxi](https://pan.baidu.com/s/1hsb8nAW)
+#### [ArcGIS10.3安装包及破解文件（含破解教程）密码：jyxi](https://pan.baidu.com/s/1hsb8nAW)
 
 #### [ENVI5.3sp1（含破解）密码：tbwb](https://pan.baidu.com/s/1skZofz3)
 
-#### spring核心技术，git安装包，vscode，python2.7&3.5.2&3.6.0和pycharm安装包...[传送门 密码：y0m4](https://pan.baidu.com/s/1nu8rSRv)
+#### [spring核心技术，git安装包，vscode，python2.7&3.5.2&3.6.0和pycharm安装包... 密码:y0m4](https://pan.baidu.com/s/1nu8rSRv)
 
 ####待补充...
 
