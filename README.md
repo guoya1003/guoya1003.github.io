@@ -17,10 +17,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #### 待补充...
 
-### Markdown该网页基于此标记语言（好像是GitHub提供）排版编写,更推荐直接用JavaScript
+### Markdown
 
 ```markdown
-免责声明：资源均来自网络，仅供个人观摩学习，请在下载24小时内删除。如有侵权请尽快与我联系
+该网页基于此标记语言（好像是GitHub提供）排版编写,更推荐直接用JavaScript。
+
+免责声明：资源均来自网络，仅供个人观摩学习，请在下载24小时内删除。如有侵权请尽快与我联系。
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
