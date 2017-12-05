@@ -1,12 +1,12 @@
 ## Welcome Guoya's Page
 
 这是一个未完成的网页！！！
-```markdown
+
 这个模块可跳过
 You can use the [editor on GitHub](https://github.com/guoya1003/guoya1003.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-```
+
 
 ### Markdown该网页基于此标记语言（好像是GitHub提供）排版编写,更推荐JavaScript
 
